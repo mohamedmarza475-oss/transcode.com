@@ -1,2 +1,21 @@
-# transcode.com
-A powerful code translation platform that automatically converts source code from one programming language to another with high accuracy, preserving logic, structure, and performance.
+# منظم حياتي الدراسية
+
+تطبيق ويب بسيط (صفحة واحدة) يساعدك على تنظيم الدراسة والحياة اليومية في مكان واحد:
+
+- إدارة المهام الدراسية وما عليك فعله
+- تسجيل جلسات المذاكرة اليومية
+- متابعة نتائج الاختبارات ونسبة التحسن
+- تتبع عادات الانضباط وتقليل استخدام السوشيال ميديا
+- حفظ كل البيانات تلقائيًا في `localStorage`
+
+## التشغيل
+
+افتح ملف `index.html` مباشرة في المتصفح، أو شغّل سيرفر محلي:
+
+```bash
+python3 -m http.server 4173
+```
+
+ثم افتح:
+
+`http://localhost:4173`
